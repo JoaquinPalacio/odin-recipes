@@ -1,0 +1,23 @@
+h1 {
+    font-size: 50px;
+    font-weight: 800px;
+    color: black;
+    text-align: center;
+}
+
+li {
+    list-style-position: inside;
+    list-style-type: square;
+}
+
+.links {
+    font-size: 25px;
+    color:cadetblue;
+}
+
+.titulos {
+    font-size: 35px;
+    color: darkblue;
+    font-weight: 500px;
+    text-align: justify;
+}
