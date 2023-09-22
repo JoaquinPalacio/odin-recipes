@@ -5,14 +5,30 @@ h1 {
     text-align: center;
 }
 
-li {
-    list-style-position: inside;
-    list-style-type: square;
+div {
+    width: 400px;
+    background: #fff;
+    margin: 30px auto;
+    font-size: 20px;
+    text-align: center;
 }
 
-.links {
-    font-size: 25px;
-    color:cadetblue;
+.link {
+    display: inline-block;
+    margin: 5px;
+    padding: 10px;
+}
+
+.lasagna{
+    background-color: aqua;
+}
+
+.canelon{
+    background-color: darkseagreen;
+}
+
+.sorrentino {
+    background-color:aquamarine;
 }
 
 .titulos {
